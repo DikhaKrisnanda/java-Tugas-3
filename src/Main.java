@@ -8,7 +8,7 @@ public class NotaRestoran {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("=== NOTA PEMESANAN RESTORAN ===");
+        System.out.println("=== NOTA PEMESANAN ===");
         System.out.print("Masukkan nama menu: ");
         String menu = input.nextLine();
 
